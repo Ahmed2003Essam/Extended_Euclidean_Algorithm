@@ -1,7 +1,7 @@
 # Extended_Euclidean_Algorithm
 The program is an extension of the Euclidean Algorithm that computes the greatest common divisor (GCD) of integers a and b.
 
-The program takes two numbers a & b as input and outputs the greatest common divisor (GCD) of a and b. Also, the program outputs the values of x and y used to fill the table to find α and β to get the gcd. In addition, the program outputs the values of remainders and quotients in each step. Then, the program uses the values of α, β, a, and b to get the gcd(a,b). 
+The program takes two numbers a & b as input and outputs the greatest common divisor (GCD) of those two numbers. Also, the program outputs the values of x and y used to fill the table to find α and β to get the gcd. In addition, the program outputs the values of remainders and quotients in each step. Then, the program uses the values of α, β, a, and b to get the gcd(a,b). 
 
 Important Equations used in this program: 
 
